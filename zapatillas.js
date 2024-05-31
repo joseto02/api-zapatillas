@@ -1,5 +1,5 @@
 
-const zapatillasAdidas = [
+const zapatillas = [
     {
         "id": 1,
         "nombre": "forum low cl",
@@ -84,5 +84,5 @@ const zapatillasAdidas = [
 ];
 
 module.exports = {
-    zapatillasAdidas
+    zapatillas
 }
